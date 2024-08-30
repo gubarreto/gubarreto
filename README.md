@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gubarreto&label=Profile%20views&color=0e75b6&style=flat" alt="gustavobarreto" /> </p>
 
-- 🔭 I’m currently working on **Developer Mobile **
+- 🔭 I’m currently working on **iOS Mobile Developer**
 
 - 🌱 I’m currently learning **Analysis and systems development**
 
