@@ -8,8 +8,6 @@
 
 - 🔭 I’m currently working on **iOS Mobile Developer**
 
-- 🌱 I’m currently learning **Analysis and systems development**
-
 - 💬 Ask me about **IOS**
 
 - 📫 How to reach me **gustavobarretodaf@gmail.com**
